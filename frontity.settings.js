@@ -15,7 +15,7 @@ const settings = {
           "menu": [
             [
               "Home",
-              "/Homepage"
+              "/"
             ],
             [
               "Events",
@@ -42,7 +42,7 @@ const settings = {
       "state": {
         "source": {
           "api": "https://public-api.wordpress.com/wp/v2/sites/wheredowedance.wordpress.com",
-          "Homepage": "/homepage",
+          "Homepage": "/",
         }
       }
     },
