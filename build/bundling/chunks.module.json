@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.43.0",
+  "hash": "0d12757d548c527e8eb2",
+  "publicPath": "/static/",
+  "outputPath": "/Users/tommy/Wheredoweance/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "wheredoweance": "wheredoweance.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 47477,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "wheredoweance.module.js",
+      "size": 4989008,
+      "chunks": [
+        "wheredoweance"
+      ],
+      "chunkNames": [
+        "wheredoweance"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "wheredoweance": {
+      "chunks": [
+        "wheredoweance"
+      ],
+      "assets": [
+        "wheredoweance.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "wheredoweance": {
+      "chunks": [
+        "wheredoweance"
+      ],
+      "assets": [
+        "wheredoweance.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
